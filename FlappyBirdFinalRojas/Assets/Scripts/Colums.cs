@@ -2,10 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-using UnityEngine;
-using System.Collections;
-
-public class Column : MonoBehaviour
+public class Colums : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
